@@ -6,7 +6,7 @@
 <p><img src="https://agora.xtec.cat/ieslaguineueta/wp-content/uploads/usu766/2023/02/Logo-Peq-INSlaGuineueta.png" width="30"> Graduate in <a href="https://www.inslaguineueta.cat/portada/">Institut La Guineueta</a> Learning:<em> Microcomputer systems and networks</em></p>  
 
 ```csharp
-Person angel = new Person("Angel Navarrete);
+Person angel = new Person("Angel Navarrete");
 angel.code = [Python, Java, Spring, HTML, CSS, PHP, Javascript, XML, XSD, XPath, XQuery, XSLT, R, Shiny, BioPython, Git, Github, GitKraken];
 angel.officeTools= [Word, Excel, PowerPoint, Access, Google Aplications];
 angel.database = [MySQL, SQL, Postgres, DBeaver, PhpmyAdmin, Neo4j, MongoDB];
